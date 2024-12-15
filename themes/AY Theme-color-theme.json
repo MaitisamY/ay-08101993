@@ -1,9 +1,14 @@
 {
 	"name": "AY Theme",
 	"colors": {
-		"editor.background": "#1e1e1f",
+		"editor.background": "#26271e",
 		"editor.foreground": "#ffffff",
-		"activityBarBadge.background": "#007acc",
+		"activityBar.background": "#2b2a2a",
+        "activityBar.foreground": "#d6f13c",
+        "activityBar.activeBorder": "#d6f13c",
+        "activityBar.inactiveForeground": "#8a8a8a",
+        "activityBarBadge.background": "#007acc",
+        "activityBarBadge.foreground": "#ffffff",
 		"sideBarTitle.foreground": "#bbbbbb",
 		"list.activeSelectionBackground": "#d6f13c",
 		"list.activeSelectionForeground": "#2b2a2a",
@@ -16,6 +21,8 @@
 		"sideBar.foreground": "#ffffff",
 		"statusBar.background": "#d6f13c",
 		"statusBar.foreground": "#000000",
+		"panel.border": "#d6f13c",
+		"panelInput.border": "#d6f13c",
 	},
 	"tokenColors": [
 		{
