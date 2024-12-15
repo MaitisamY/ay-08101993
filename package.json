@@ -2,6 +2,7 @@
   "name": "ay-08101993",
   "displayName": "ay-theme",
   "description": "An attractive and engaging UI theme.",
+  "repository": "https://github.com/MaitisamY/ay-08101993",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.96.0"
